@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.Python
+
+# Virtual env
+venv/
+.venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# Vendored static binaries (staged during build from imageio-ffmpeg)
+vendor/
+
+# Generated iconset intermediate (the .icns is kept; the unpacked iconset isn't)
+assets/AppIcon.iconset/
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
